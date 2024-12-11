@@ -16,11 +16,15 @@ body{
 #mainHeader{
     font-size: 4rem;
     font-weight: 200;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin: 0;
     /* color: hsl(210, 13%, 30%); */
     color: hsla(240, 100%, 7%, 0.784);
 
+}
+
+#hourGlass{
+    font-size: 6rem;
 }
 
 #componentsWrapper{
