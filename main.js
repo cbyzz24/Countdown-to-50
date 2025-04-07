@@ -1,4 +1,4 @@
-const bDay = new Date("2025-01-01T00:00:00");
+const bDay = new Date("2025-08-29T00:00:00");
 const now = new Date();
 
 const vBday = bDay.getTime();
