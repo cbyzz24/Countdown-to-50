@@ -13,10 +13,10 @@ const s = ((m % 1) * (60));
 // console.log(vBday);
 // console.log(vNow);
 // console.log(timeGap);
-console.log(d);
-console.log(h);
-console.log(m);
-console.log(s);
+// console.log(d);
+// console.log(h);
+// console.log(m);
+// console.log(s);
 
 function displayTime(){
     const days = document.getElementById("days");
@@ -31,4 +31,4 @@ function displayTime(){
 }
 
 displayTime();
-setInterval(displayTime, 100);
+setInterval(displayTime, 1000);
